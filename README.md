@@ -1,10 +1,76 @@
-# E-Commerce-Sales-Analysis-Dashboard-using-Excel
+# 📊 E-Commerce-Sales-Analysis-Dashboard (Using-Excel)
 
-Background
-E-commerce is one of the fastest growing sector as now-a-days most of the customers prefer to purchase online. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the process of shopping on the web is becoming commonplace.
+# 🏢 Background
 
-Domain
-E-Commerce
+E-commerce (Electronic Commerce) refers to the buying and selling of goods and services over the internet. With the rapid growth of online platforms such as Amazon, Flipkart, and Shopify, businesses generate massive volumes of transactional data daily.
+
+Analyzing this data helps organizations understand customer behavior, product performance, regional demand, and profitability trends.
+
+Sales dashboards play a critical role in enabling data-driven decision-making in modern e-commerce businesses.
+
+**Domain**
+
+<img width="1002" height="460" alt="image" src="https://github.com/user-attachments/assets/870b72af-c368-4af7-8611-66834ae4af83" />
+
+
+# 🔎 Project Overview
+
+This project presents an interactive E-Commerce Sales Analysis Dashboard built using Microsoft Excel. The dashboard provides insights into sales performance, profit trends, customer segments, and regional distribution.
+
+The goal of this project is to demonstrate data cleaning, data analysis, pivot table usage, and dashboard creation skills in Excel.
+
+# 🎯 Business Objective
+
+* Analyze overall sales performance.
+* Identify top-performing categories and products.
+* Track monthly revenue trends.
+* Evaluate regional sales distribution.
+* Analyze profit margins.
+* Understand customer purchasing behavior
+
+# 🛠 Tools Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Cleaning Techniques
+
+# 📂 Dataset Description
+
+This dataset contains [E-Commerce Sales Analysis](https://github.com/mroyalreddy07/E-Commerce-Sales-Analysis-Dashboard-using-Excel-/blob/main/E-Commerce%20Sales%20Analysis%20Dataset.xlsx) transaction data used to analyze sales performance, customer behavior, product trends, and regional revenue distribution.
+
+* Row ID
+* Order ID
+* Year
+* Order Date
+* Ship Date
+* Ship Mode
+* Customer ID
+* Customer Name
+* Segment
+* Country
+* City
+* State
+* Postal Code
+* Region
+* Product ID
+* Category
+* Sub-Category
+* Product Name
+* Sales
+* Quantity
+* Discount
+* Profit
+<img width="3270" height="24" alt="image" src="https://github.com/user-attachments/assets/9edb6237-6193-4191-a86a-2ffeb69d95dd" />
+Order ID Order Date Customer Name Region & State Category & Sub-Category Product Name Sales
+
+Quantity
+
+Profit
+
+Payment Mode
+
 
 Business Requirements
 

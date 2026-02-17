@@ -62,16 +62,7 @@ This dataset contains [E-Commerce Sales Analysis](https://github.com/mroyalreddy
 * Quantity
 * Discount
 * Profit
-<img width="3270" height="24" alt="image" src="https://github.com/user-attachments/assets/9edb6237-6193-4191-a86a-2ffeb69d95dd" />
-Order ID Order Date Customer Name Region & State Category & Sub-Category Product Name Sales
-
-Quantity
-
-Profit
-
-Payment Mode
-
-
+  
 Business Requirements
 
 To find the Total Sales of all the orders over 12 months for each region and segment.
